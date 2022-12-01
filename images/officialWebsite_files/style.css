@@ -86,8 +86,3 @@ nav img{
     position: relative;
     cursor: pointer;
 }
-.cute-cat:hover{
-    border:1px solid #9e43aa;
-    background: #9e43aa;
-    transition: 0.5s
-}
